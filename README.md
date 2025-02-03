@@ -1,5 +1,9 @@
 # Scripting_2025
 
+[Link Aula Digital](https://auladigital.upb.edu.co/course/view.php?id=10331)
+
+[Link a Equipo de Teams](https://teams.microsoft.com/l/team/19%3Axl_0N_n1WO1Oi5tjacmuNzar0sPhSrwQZQjtUaHxe4A1%40thread.tacv2/conversations?groupId=88ac6d25-0151-40d9-8e6a-5bf95a5d4eae&tenantId=618bab0f-20a4-4de3-a10c-e20cee96bb35)
+
 **Estudiante:** Daniel Esteban Aridla Alzate
 
 **Profesor:** Andres Felipe Perez Campillo
