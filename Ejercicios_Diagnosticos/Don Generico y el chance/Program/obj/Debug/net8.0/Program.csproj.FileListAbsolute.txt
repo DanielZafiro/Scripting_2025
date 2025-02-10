@@ -1,0 +1,15 @@
+C:\Users\Daniel\Documents\GitHub\Scripting_DanieLudens_2025\Ejercicios_Diagnosticos\Don Generico y el chance\Program\bin\Debug\net8.0\Program.exe
+C:\Users\Daniel\Documents\GitHub\Scripting_DanieLudens_2025\Ejercicios_Diagnosticos\Don Generico y el chance\Program\bin\Debug\net8.0\Program.deps.json
+C:\Users\Daniel\Documents\GitHub\Scripting_DanieLudens_2025\Ejercicios_Diagnosticos\Don Generico y el chance\Program\bin\Debug\net8.0\Program.runtimeconfig.json
+C:\Users\Daniel\Documents\GitHub\Scripting_DanieLudens_2025\Ejercicios_Diagnosticos\Don Generico y el chance\Program\bin\Debug\net8.0\Program.dll
+C:\Users\Daniel\Documents\GitHub\Scripting_DanieLudens_2025\Ejercicios_Diagnosticos\Don Generico y el chance\Program\bin\Debug\net8.0\Program.pdb
+C:\Users\Daniel\Documents\GitHub\Scripting_DanieLudens_2025\Ejercicios_Diagnosticos\Don Generico y el chance\Program\obj\Debug\net8.0\Program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniel\Documents\GitHub\Scripting_DanieLudens_2025\Ejercicios_Diagnosticos\Don Generico y el chance\Program\obj\Debug\net8.0\Program.AssemblyInfoInputs.cache
+C:\Users\Daniel\Documents\GitHub\Scripting_DanieLudens_2025\Ejercicios_Diagnosticos\Don Generico y el chance\Program\obj\Debug\net8.0\Program.AssemblyInfo.cs
+C:\Users\Daniel\Documents\GitHub\Scripting_DanieLudens_2025\Ejercicios_Diagnosticos\Don Generico y el chance\Program\obj\Debug\net8.0\Program.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Documents\GitHub\Scripting_DanieLudens_2025\Ejercicios_Diagnosticos\Don Generico y el chance\Program\obj\Debug\net8.0\Program.sourcelink.json
+C:\Users\Daniel\Documents\GitHub\Scripting_DanieLudens_2025\Ejercicios_Diagnosticos\Don Generico y el chance\Program\obj\Debug\net8.0\Program.dll
+C:\Users\Daniel\Documents\GitHub\Scripting_DanieLudens_2025\Ejercicios_Diagnosticos\Don Generico y el chance\Program\obj\Debug\net8.0\refint\Program.dll
+C:\Users\Daniel\Documents\GitHub\Scripting_DanieLudens_2025\Ejercicios_Diagnosticos\Don Generico y el chance\Program\obj\Debug\net8.0\Program.pdb
+C:\Users\Daniel\Documents\GitHub\Scripting_DanieLudens_2025\Ejercicios_Diagnosticos\Don Generico y el chance\Program\obj\Debug\net8.0\Program.genruntimeconfig.cache
+C:\Users\Daniel\Documents\GitHub\Scripting_DanieLudens_2025\Ejercicios_Diagnosticos\Don Generico y el chance\Program\obj\Debug\net8.0\ref\Program.dll
